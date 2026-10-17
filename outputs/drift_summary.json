@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-10-17T17:39:21.624349",
+    "drift_type": "seasonal",
+    "reference_size": 1000,
+    "current_size": 200,
+    "dataset_drift_detected": false,
+    "drift_share": 0.273,
+    "number_of_drifted_features": 3,
+    "drifted_features": [],
+    "feature_results": {},
+    "alert": false
+  },
+  {
+    "timestamp": "2026-10-17T17:39:23.586494",
+    "drift_type": "campaign",
+    "reference_size": 1000,
+    "current_size": 200,
+    "dataset_drift_detected": false,
+    "drift_share": 0.273,
+    "number_of_drifted_features": 3,
+    "drifted_features": [],
+    "feature_results": {},
+    "alert": false
+  },
+  {
+    "timestamp": "2026-10-17T17:39:24.923425",
+    "drift_type": "outbreak",
+    "reference_size": 1000,
+    "current_size": 200,
+    "dataset_drift_detected": false,
+    "drift_share": 0.182,
+    "number_of_drifted_features": 2,
+    "drifted_features": [],
+    "feature_results": {},
+    "alert": false
+  }
+]
